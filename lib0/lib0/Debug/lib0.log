@@ -1,0 +1,4 @@
+﻿  stdafx.cpp
+  win32.cpp
+c:\users\administrator\documents\visual studio 2015\projects\lib0\lib0\win32.cpp(19): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+  lib0.vcxproj -> c:\users\administrator\documents\visual studio 2015\Projects\MFCApplication1\Debug\lib0.lib
